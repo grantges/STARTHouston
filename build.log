@@ -1,0 +1,128 @@
+Logfile initialized
+[INFO] logfile = /Users/bgrantges/trees/sandbox/STARTHouston/build.log
+[DEBUG] /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/builder.py install STARTHouston /android-sdk /Users/bgrantges/trees/sandbox/STARTHouston com.starthouston.app 2
+[INFO] Titanium SDK version: 2.0.1 (04/12/12 16:33 999c68a)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.024783 seconds on emulator to get ready
+[DEBUG] com.starthouston.app installed? False
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /Users/bgrantges/trees/sandbox/STARTHouston/Resources/libs/animations.js => /Users/bgrantges/trees/sandbox/STARTHouston/build/android/bin/assets/Resources/libs/animations.js
+[TRACE] COPYING MODIFIED FILE: /Users/bgrantges/trees/sandbox/STARTHouston/Resources/ui/common/BarButton.js => /Users/bgrantges/trees/sandbox/STARTHouston/build/android/bin/assets/Resources/ui/common/BarButton.js
+[TRACE] COPYING MODIFIED FILE: /Users/bgrantges/trees/sandbox/STARTHouston/Resources/ui/common/BlogRoll.js => /Users/bgrantges/trees/sandbox/STARTHouston/build/android/bin/assets/Resources/ui/common/BlogRoll.js
+[TRACE] COPYING MODIFIED FILE: /Users/bgrantges/trees/sandbox/STARTHouston/Resources/ui/common/TwitterTableView.js => /Users/bgrantges/trees/sandbox/STARTHouston/build/android/bin/assets/Resources/ui/common/TwitterTableView.js
+[TRACE] COPYING MODIFIED FILE: /Users/bgrantges/trees/sandbox/STARTHouston/Resources/ui/handheld/iphone/MainView.js => /Users/bgrantges/trees/sandbox/STARTHouston/build/android/bin/assets/Resources/ui/handheld/iphone/MainView.js
+[TRACE] COPYING CREATED FILE: /Users/bgrantges/trees/sandbox/STARTHouston/Resources/ui/handheld/iphone/PhotoStream.js => /Users/bgrantges/trees/sandbox/STARTHouston/build/android/bin/assets/Resources/ui/handheld/iphone/PhotoStream.js
+[TRACE] COPYING MODIFIED FILE: /Users/bgrantges/trees/sandbox/STARTHouston/Resources/ui/handheld/iphone/TrayView.js => /Users/bgrantges/trees/sandbox/STARTHouston/build/android/bin/assets/Resources/ui/handheld/iphone/TrayView.js
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[DEBUG] copying app icon: /Users/bgrantges/trees/sandbox/STARTHouston/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] copying /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-long-land-hdpi/default.png splash screen to /Users/bgrantges/trees/sandbox/STARTHouston/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] copying /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-long-land-ldpi/default.png splash screen to /Users/bgrantges/trees/sandbox/STARTHouston/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] copying /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Users/bgrantges/trees/sandbox/STARTHouston/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] copying /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Users/bgrantges/trees/sandbox/STARTHouston/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] copying /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-notlong-land-hdpi/default.png splash screen to /Users/bgrantges/trees/sandbox/STARTHouston/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] copying /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-notlong-land-ldpi/default.png splash screen to /Users/bgrantges/trees/sandbox/STARTHouston/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] copying /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-notlong-land-mdpi/default.png splash screen to /Users/bgrantges/trees/sandbox/STARTHouston/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] copying /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Users/bgrantges/trees/sandbox/STARTHouston/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] copying /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Users/bgrantges/trees/sandbox/STARTHouston/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] copying /Users/bgrantges/trees/sandbox/STARTHouston/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Users/bgrantges/trees/sandbox/STARTHouston/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG] found splash screen at /Users/bgrantges/trees/sandbox/STARTHouston/build/android/bin/assets/Resources/default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/bgrantges/trees/sandbox/STARTHouston/build/android/gen/com/starthouston/app/R.java to javac build list
+[DEBUG] adding /Users/bgrantges/trees/sandbox/STARTHouston/build/android/gen/com/starthouston/app/StarthoustonActivity.java to javac build list
+[DEBUG] adding /Users/bgrantges/trees/sandbox/STARTHouston/build/android/gen/com/starthouston/app/StarthoustonAppInfo.java to javac build list
+[DEBUG] adding /Users/bgrantges/trees/sandbox/STARTHouston/build/android/gen/com/starthouston/app/StarthoustonApplication.java to javac build list
+[DEBUG] Building Java Sources: "/Users/bgrantges/trees/sandbox/STARTHouston/build/android/gen/com/starthouston/app/R.java" "/Users/bgrantges/trees/sandbox/STARTHouston/build/android/gen/com/starthouston/app/StarthoustonActivity.java" "/Users/bgrantges/trees/sandbox/STARTHouston/build/android/gen/com/starthouston/app/StarthoustonAppInfo.java" "/Users/bgrantges/trees/sandbox/STARTHouston/build/android/gen/com/starthouston/app/StarthoustonApplication.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: /Users/bgrantges/trees/sandbox/STARTHouston/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/images/footer-bkg.png
+[DEBUG] from resource zip => assets/Resources/images/footer-bkg@2x.png
+[DEBUG] from resource zip => assets/Resources/images/header-bkg.png
+[DEBUG] from resource zip => assets/Resources/images/poweredby.png
+[DEBUG] from resource zip => assets/Resources/images/poweredby@2x.png
+[DEBUG] from resource zip => assets/Resources/images/start-logo.png
+[DEBUG] from resource zip => assets/Resources/images/title-img.png
+[DEBUG] from resource zip => assets/Resources/images/title-img@2x.png
+[DEBUG] from resource zip => assets/Resources/images/tray-bkg.png
+[DEBUG] from resource zip => assets/Resources/images/tray-bkg@2x.png
+[DEBUG] from resource zip => assets/Resources/images/twitter_bar_icon.png
+[DEBUG] from resource zip => assets/Resources/images/twitter_bar_icon@2x.png
+[DEBUG] from resource zip => assets/Resources/images/twitter_newbird_white.png
+[DEBUG] from resource zip => assets/Resources/libs/animations.js
+[DEBUG] from resource zip => assets/Resources/libs/rss_reader.js
+[DEBUG] from resource zip => assets/Resources/libs/utils.js
+[DEBUG] from resource zip => assets/Resources/ui/common/Activity.js
+[DEBUG] from resource zip => assets/Resources/ui/common/BarButton.js
+[DEBUG] from resource zip => assets/Resources/ui/common/BlogRoll.js
+[DEBUG] from resource zip => assets/Resources/ui/common/Footer.js
+[DEBUG] from resource zip => assets/Resources/ui/common/TrayWindow.js
+[DEBUG] from resource zip => assets/Resources/ui/common/TwitterTableView.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/android/ApplicationWindow.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/iphone/MainView.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/iphone/PhotoStream.js
+[DEBUG] from resource zip => assets/Resources/ui/handheld/iphone/TrayView.js
+[DEBUG] from resource zip => assets/Resources/ui/tablet/android/ApplicationWindow.js
+[DEBUG] from resource zip => assets/Resources/ui/tablet/ipad/ApplicationWindow.js
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/Resources/ti.cloud.js
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/thirdparty.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/thirdparty.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR /Users/bgrantges/Library/Application Support/Titanium/mobilesdk/osx/2.0.1.GA2/android/thirdparty.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] installing native SDK libs
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.090639 seconds on emulator to get ready
+[INFO] Installing application on device
+[INFO] Application installed. Launch from drawer on Home Screen
